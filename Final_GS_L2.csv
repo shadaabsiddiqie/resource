@@ -1,0 +1,67 @@
+1001,Bolls failed to open,Bolls,Are bolls not opening?
+1002,Bolls turns into black,Bolls,Are bolls turning into black color?
+1003,Bored bolls,Bolls,Do bolls have holes?
+1004,Delay in fruiting,Bolls,Is there a delay in fruiting?
+1005,Delay in maturity of the bolls. ,Bolls,Do you find any delay in maturity of the bolls?
+1006,Excreta in the bolls,Bolls,Do you notice any excreta in the bolls
+1007,Fed bolls but holes not visible.,Bolls,Do you observe any boll damage (holes are not visible)?
+1008,Premature opening of damaged bolls,Bolls,Do you detect any damaged bolls with premature opening?
+1009,Premature ripening of bolls,Bolls,Do you discover any premature ripening of bolls?
+1010,Premature shedding of bolls,Bolls,Do you find any premature shedding of bolls?
+1011,Retarded growth of bolls,Bolls,Is growth of bolls retarted?
+1012,Sooty mould development on bolls,Bolls,Do you observe any sooty mould on bolls?
+1013,Spots on bolls,Bolls,Do you notice any spots on bolls?
+2001,Bored squares/bored flower buds,Flowers,Do flower buds have holes?
+2002,Delay in blooming,Flowers,Is there a delay in blooming?
+2003,Fed buds,Flowers,Do you observe any buds eaten by insects?
+2004,Premature shedding of flowers,Flowers,Do you find any premature shedding of flowers?
+2005,“rosette” flowers.,Flowers,Are flowers not opening properly [rosette flowers]?
+2006,Shedding of flowers,Flowers,Do you observe any shedding of flowers?
+2007,Withering of flowers,Flowers,Do you notice any withering of flowers?
+3001,Insect on lower side of the leaf,Insects,Do you observe any insects on lower side of the leaves?
+3002,Presence of insects in the bolls,Insects,Do you find any insects in the bolls?
+4001,Blackening of veins in leaves,Leaves,Do you observe any leaves with blackened veins?
+4002,Brittle leaves,Leaves,Do you discover any Brittle leaves?
+4003,Cotyledons start bending and collapse,Leaves,Do you detect any cotyledons start bending and collapsing?
+4004,Curling of leaves,Leaves,Do you observe any curling of leaves?
+4005,Discolorization of leaves,Leaves,Do you notice any change in leaf color?
+4006,Dried leaves,Leaves,Do you find any dried leaves?
+4007,Fed leaves/holes in leaves,Leaves,Do you observe any holes in leaves or leaves eaten by insect?
+4008,Necrosis of leaves,Leaves,Do you observe any necrosis on leaves?
+4009,Powdery growth on leaves,Leaves,Do you find any powdery growth on leaves?
+4010,Reduction in leaf size,Leaves,Do you notice any reduction in size of leaves?
+4011,Rolling of leaves,Leaves,Do you observe any rolling of leaves?
+4012,Shedding of leaves,Leaves,Do you observe any shedding of leaves?
+4013,Sooty mould development on leaves,Leaves,Do you find any sooty mould on leaves?
+4014,Spots(lesions) on leaves,Leaves,Do you find any spots(lesions) on leaves?
+4015,Spots on leaves,Leaves,Do you observe any spots on leaves?
+4016,The leaf petioles start bending and collapse,Leaves,Do you find any leaf petioles start bending and collapsing?
+4017,Upward cupping of leaves,Leaves,Do you observe any upward cupping of  leaves?
+5001,Brittle mass in lint,Lint,Do you observe any Brittle mass in lint?
+5002,Poor quality lint,Lint,Is quality of lint poor?
+5003,Retarded development of lint,Lint,Is development of lint  retarded?
+5004,Staining of lint,Lint,Do you observe any staining of lint?
+6001,Root rot,Root,Do you observe any root rot in the crop?
+7001,Fed seeds,Seeds,Do you observe any seeds eaten by insects?
+7002,Low germination percentage,Seeds,Do you observe any low seed germination percentage?
+7003,Reduced seed size,Seeds,Do you find any reduction in size of seeds?
+7004,Underdeveloped seeds,Seeds,Do you notice any underdeveloped seeds?
+8001,Bored stem,Stems,Do you observe any bores on stem?
+8002,Dark reddish-brown cankers are formed on the stems ,Stems,Do you notice any Dark reddish-brown cankers are formed on the stem?
+8003,Drying of stems/wilting of stems ,Stems,Do you detect any drying/wilting of stem?
+8004,Fed shoots,Stems,Do you observe any shoots eaten by insects?
+8005,Galls on stems,Stems,Do you find any galls on stem?
+8006,Girdling of stem ,Stems,Do you observe any girdling of stem?
+8007,Gummosis,Stems,Do you observe any appearance of gum on stem?
+8008,Powdery growth on stems,Stems,Do you find any powdery growth on stem?
+8009,Shredding of bark.,Stems,Do you observe any shedding of bark?
+8010,Sooty mould development on stem,Stems,Do you observe any sooty mould on stem?
+8011,Splitting of stem,Stems,Do you discover any splitting of stem?
+8012,Spots on stems,Stems,Do you find any spots on stem?
+8013,Stem damage(need to name it),Stems,Do you observe any damage inside stem?
+8014,Terminal bud often dies ,Stems,Do you detect any drying/ falling of terminal buds?
+8015,White waxy growth on stems,Stems,Do you observe any white waxy growth on stem?
+8016,Withering of stems/drooping of stems,Stems,Do you observe any withering/drooping of stem?
+9001,Bushy appearence of plant,Whole plant,Do you observe any bushy appearance of a plant?
+9002,Stunted growth of plant,Whole plant,Do you detect any stunted growth of a plant?
+9003,Wilting of plant,Whole plant,Do you find any wilting  of a plant?

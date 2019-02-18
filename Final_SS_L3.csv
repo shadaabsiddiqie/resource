@@ -1,0 +1,66 @@
+10001,Premature opening of the bolls but no fungus,Do you observe that bolls are opened but no fungus?,101,Bolls
+10002,Premature opening of the boll leading to invasion of saprophytic fungus. ,Do you observe any saprophytic fungus in bolls?,101,Bolls
+10003,Bright yellow/orange/brown bolls,Do you observe any spots with bright yellow/orange/brown in color?,101,Bolls
+10004,Dark black  irregular spots,Do you find any irregular spots with dark black in color?,101,Bolls
+10005,"Small water soaked, circular, reddish brown depressed spots appear on the bolls","Do you observe any circular spots with reddish brown in color,  small water soaked and depressed? ",101,Bolls
+10006,Spherical or elliptical purple spots on bolls,Do you observe any spherical or elliptical spots with purple color?,101,Bolls
+10007,Yellow or white spots ,Do you find any spots  with yellow or white color?,101,Bolls
+10008,"Flared squares [bolls are bored at the base of flower buds which are hollowed out, bracts of damaged flower buds spread out and curl down wards.]","Do you detect any flared squares (bolls are bored at the base of flower buds which are hollowed out, bracts of damaged flower buds spread out and curl down wards)?",201,Flowers
+10009,Flaring up of bracts during square and young boll formation stage,Do you detect any flaring up of bracts during square and young boll formation stage?,201,Flowers
+10010,"Adult is minute insect measuring about 0.5 mm in length having white or greyish wings, a yellowish body and red medially constricted eyes.","Do you find any adult insect (length 0.5mm with white or greyish wings, yellowish body and red medically consticted eyes)?",301,Insects
+10011,"Adult is small, soft, yellowish, green or greenish brown in colour. It is found in colonies under surface of leaves and infested parts","Do you notice any colony of  adult insects (small, soft, yellowish, green or greenish brown in colour)?",301,Insects
+10012,"Insect is velvety, black with yellowish – green dorsal stripes and lateral white bands with incomplete ring – like dark band on anterior and posterior end of the body.","Do you detect insect with velvety, black with yellowish – green dorsal stripes and lateral white bands with incomplete ring – like dark band on anterior and posterior end of the body?",301,Insects
+10013,On lower side of leaves colonies of larvae are found at young stages.,Do you observe colonies of larvae are found at young stages?,301,Insects
+10014,On lower surface of leaves insects are found in colonies.,Do you find insect colonies on lower side of the leaf?,301,Insects
+10015,"Caterpillars are of varying colour, initially brown and later turn greenish with darker broken lines along the side of the body. ",Do you notice any caterpillars(Initially brown and later turn greenish with darker broken lines along the side of the body)?,301,Insects
+10016,Greyish brown bug with hyaline wings and roughly rectangular in shape,Do you detect any bugs with Greyish brown bug with hyaline wings and roughly rectangular in shape?,301,Insects
+10017,Pinkish larvae with dark brown head.,Do you find any pink larvae  with dark brown head?,301,Insects
+10018,The caterpillars of  have a number of black and brown spots on the body,Do you detect any caterpillar with number of black and brown spots on the body? ,301,Insects
+10019,The larva inserts its head inside the boll and feeds by filling the bolls.,Is larva head inside the boll and feeds by filling the bolls?,301,Insects
+10020,The larva inserts its head inside the boll and feeds by filling the boll with excreta,Is larva head inside the boll and feeds by filling the bolls with excreta ?,301,Insects
+10021,Curling both sides,Are leaves curling both sides?,401,Leaves
+10022,Only downward curling of leaves,Are leaves curling downwards?,401,Leaves
+10023,Only upward curling of leaves,Are leaves curling upwards?,401,Leaves
+10024,A pale yellowish green colour of leaf(older),Are older leaves pale yellowish green in color?,401,Leaves
+10025,Bronzing and interveinal chlorosis appear. ,Do you observe any appearance of Bronzing and interveinal chlorosis?,401,Leaves
+10026,Chlorotic spots which later coalesce forming irregular yellowing of leaves which extends from veins to outer edges. ,Are there any Chlorotic spots which later coalesce forming irregular yellowing of leaves which extends from veins to outer edges?,401,Leaves
+10027,Fading of leaf (yellow),Are leaves fading into yellowish color?,401,Leaves
+10028,Leaf is dark green in colour ,Are leaves dark green in color?,401,Leaves
+10029,Leaf margins turning yellow to red,Are leaves margins turning yellow to red in color?,401,Leaves
+10030,Leaf turns into yellow color,Are leaves turn into yellow color?,401,Leaves
+10031,Pale yellowish leaves,Are leaves change into pale yellowish color?,401,Leaves
+10032,Purplish red leaves with green veins (older leaves),Are older leaves turns into purplish red in color with green veins?,401,Leaves
+10033,The whole leaf becomes reddish brown after spots occurs,Do you observe whole leaves turn into reddish brown in color after spots occur?,401,Leaves
+10034,Yellowing of edges of leaves i.e. discolouration starts from the margin and spreads towards the midrib. Finally leaf turns brown ,Are leaves edges turn into yellow(discoloration starts from the margin and spreads towards the midrib. Finally leaf turns brown)?,401,Leaves
+10035,Yellowish leaves(young).,Are young leaves yellowish color?,401,Leaves
+10036,Circular holes on leaves.,Do you find circular holes on leaves?,401,Leaves
+10037,Irregular holes on leaves,Do you observe irregular holes on leaves?,401,Leaves
+10038,Marginal portion of leaves eaten away,Do you observe marginal portion of leaves eaten by insect?,401,Leaves
+10039,Skelitinzation of leaves ,Do you observe any skeletonization of leaves?,401,Leaves
+10040,Brown necrotic patches on the leaves. ,Do you observe any brown necrotic patches on leaves?,401,Leaves
+10041,On older leaves the necrotic center of the spots may be marked by a pattern of concentric zonation,Do you find any older leaves with the necrotic center of the spots (marked by a pattern of concentric zonation)?,401,Leaves
+10042,Shedding of all leaves, Do you observe shedding of “all “ leaves?,401,Leaves
+10043,Shedding of older leaves, Do you find shedding of “older “ leaves?,401,Leaves
+10044,Circular or irregular spots with grayish white centre surrounded by brown margin,Do you find lesions with circular or irregular spots with grayish white center surrounded by brown margin?,401,Leaves
+10045,Water soaked lesions appear on upper surface of leaf,Do you find water soaked lesions on upper surface of the leaf?,401,Leaves
+10046,Bright yellow/orange/brown spots usually on under surface of the older(lower) leaves surrounded by purple borders,Do you observe spots with bright yellow/orange/brown in color usually on under surface of the older(lower) leaves surrounded by purple border?,401,Leaves
+10047,Circular spots,Do you find circular spots?,401,Leaves
+10048, Cotton rust-light yellowish green spots appear between the veins.,Do you detect cotton rust-light yellowish green spots appear between the veins?,401,Leaves
+10049,Reddish brown colour angular spots on both sides of leaves,Do you find any angular spots with reddish brown in color on both sides of leaves?,401,Leaves
+10050,Reddish circular spots on leaves,Do you observe circular reddish color spots  on leaves?,401,Leaves
+10051,"Small brown, round spots surrounded by a purple margin appear on leaves. ","Do you find any small brown, round spots surrounded by a purple margin?",401,Leaves
+10052,The spots are grayish white in colour with deep purple margin,Do you observe greyish white color spots with green purple margin?,401,Leaves
+10053,Yellow spots on leaves,Do you observe yellow spots on leaves?,401,Leaves
+10054,Black color of lint,Do you notice black color lint?,501,Lint
+10055,Lint turns into red color,Do you observe lint turns into red color?,501,Lint
+10056,Pink colour of lint,Do you find pink color lint?,501,Lint
+10057,Yellow colour of lint,Do you detect yellow color lint?,501,Lint
+10058,Yellow or brown color of lint,Do you observe yellow or brown color lint?,501,Lint
+10059,Bright yellow/orange/brown spots usually on stems surrounded by purple borders,Do you find spots with bright yellow/orange/brown color surrounded by purple borders?,801,Stems
+10060,Spherical or elliptical purple spots on stems,Do you observe spherical or elliptical spots with purple color?,801,Stems
+10061,Browning or blackening of vascular tissues i.e black streaks or stripes may be seen extending upwards to the branches ,Do you find browning or blackening of vascular tissues of stem (black streaks or stripes may be seen extending upwards to the branches )?,801,Stems
+10062,Pinkish to pinkish brown discolouration of stem,Do you observe  discolouration of stem from pinkish to pinkish brown in color?,801,Stems
+10063,In all stages,Do you observe stunted growth of plant in all stages?,901,Whole plant
+10064,The vegetative growth retarded ,Do you observe stunted growth of plant in vegetative state?,901,Whole plant
+10065,Wilting of plants in concentric circular patches in the crop,Do you find wilting of plants in concentric circular patches in the crop?,901,Whole plant
+10066,Wilting of plants in whole crop,Do you observe wilting of plants in whole crop?,901,Whole plant
