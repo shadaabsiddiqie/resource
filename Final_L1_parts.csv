@@ -1,9 +1,9 @@
-101,Bolls,Do you observe any damage on bolls?
-201,Flowers,Do you find any damage on Flowers?
-301,Insects,Do you see any Insect/Egg/Larve  on plant?
-401,Leaves,Do you find any Damage on Leaves?
-501,Lint,Do you observe any Problem with the Lint?
-601,Root,Do you find any rotting problem?
-701,Seeds,Do you see any  seed damage?
-801,Stems,Do you observe any stem damage?  
-901,Whole plant,Do you observe any problem with the whole plant? 
+101,Bolls damage,Do you observe any damage on bolls?
+201,Flowers damage,Do you find any damage on flowers?
+301,Insects damage,Do you see any insect/egg/larve  on plant?
+401,Leaves damage,Do you find any damage on leaves?
+501,Lint damage,Do you observe any problem with the lint?
+601,Root damage,Do you find any rotting problem?
+701,Seeds damage,Do you see any  seed damage?
+801,Stems damage,Do you observe any stem damage?  
+901,Whole plant damage,Do you observe any problem with the whole plant? 

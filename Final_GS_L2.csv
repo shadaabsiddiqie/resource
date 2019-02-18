@@ -21,7 +21,7 @@
 3001,Insect on lower side of the leaf,Insects,Do you observe any insects on lower side of the leaves?
 3002,Presence of insects in the bolls,Insects,Do you find any insects in the bolls?
 4001,Blackening of veins in leaves,Leaves,Do you observe any leaves with blackened veins?
-4002,Brittle leaves,Leaves,Do you discover any Brittle leaves?
+4002,Brittle leaves,Leaves,Do you discover any brittle leaves?
 4003,Cotyledons start bending and collapse,Leaves,Do you detect any cotyledons start bending and collapsing?
 4004,Curling of leaves,Leaves,Do you observe any curling of leaves?
 4005,Discolorization of leaves,Leaves,Do you notice any change in leaf color?
@@ -37,7 +37,7 @@
 4015,Spots on leaves,Leaves,Do you observe any spots on leaves?
 4016,The leaf petioles start bending and collapse,Leaves,Do you find any leaf petioles start bending and collapsing?
 4017,Upward cupping of leaves,Leaves,Do you observe any upward cupping of  leaves?
-5001,Brittle mass in lint,Lint,Do you observe any Brittle mass in lint?
+5001,Brittle mass in lint,Lint,Do you observe any brittle mass in lint?
 5002,Poor quality lint,Lint,Is quality of lint poor?
 5003,Retarded development of lint,Lint,Is development of lint  retarded?
 5004,Staining of lint,Lint,Do you observe any staining of lint?
@@ -47,7 +47,7 @@
 7003,Reduced seed size,Seeds,Do you find any reduction in size of seeds?
 7004,Underdeveloped seeds,Seeds,Do you notice any underdeveloped seeds?
 8001,Bored stem,Stems,Do you observe any bores on stem?
-8002,Dark reddish-brown cankers are formed on the stems ,Stems,Do you notice any Dark reddish-brown cankers are formed on the stem?
+8002,Dark reddish-brown cankers are formed on the stems ,Stems,Do you notice any dark reddish-brown cankers are formed on the stem?
 8003,Drying of stems/wilting of stems ,Stems,Do you detect any drying/wilting of stem?
 8004,Fed shoots,Stems,Do you observe any shoots eaten by insects?
 8005,Galls on stems,Stems,Do you find any galls on stem?
